@@ -10,7 +10,7 @@ My GitHub page is http://github.com/vannaflo.
 
 * Lab 1
 
-    Lab 1 will always be my favorite because it feels like an initiation into the computer science world. It's crucial to learn the basics of git, and though the lab doesn't do much, it involves the foundation of all other codes we've done in other labs, such as #include, std::cout, return, int, and const. 
+    Lab 1 will always be my favorite because it feels like an initiation into the computer science world. It's crucial to learn the basics of git, and though the lab doesn't do much, it involves the foundation of all other codes we've done in other labs, such as #include, std::cout, return, int, and main. 
 
 * Lab 4, Part 2
 
