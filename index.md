@@ -18,4 +18,4 @@ My GitHub page is http://github.com/vannaflo.
 
 * Lab 9, Part 2
 
-    Another favorite lab was Lab 9: part 2. I fell beind in labs, but coming back to Lab 9, I was able to figure out a good amount of the code wihtout needing help. I found it fairly easy, but only struggled with using the secret.dat file in game.cc and secret.cc. It was new to use ifstream and ofstream, but I was able to get help and figure out what my mistakes were. Lab 9 was a good stepping stone into the more confusing codes that I may struggle with.
+    Another favorite lab was Lab 9: part 2. I fell beind in labs, but coming back to Lab 9, I was able to figure out a good amount of the code without needing help. I found it fairly easy, but only struggled with using the secret.dat file in game.cc and secret.cc. It was new to use ifstream and ofstream, but I was able to get help and figure out what my mistakes were. Lab 9 was a good stepping stone into the more confusing codes that I may struggle with.
